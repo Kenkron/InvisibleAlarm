@@ -16,7 +16,7 @@ D3 as the enable, and D4-D7 for data (LCD Operates in 4 bit mode).
 
 The speaker should be connected to pin B5
 
-![Configuration](docs/Invisible Alarm.drawio.png)
+![Configuration](/docs/Invisible%20Alarm.drawio.png)
 
 Use
 ---
